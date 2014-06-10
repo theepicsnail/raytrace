@@ -15,8 +15,8 @@ public class Map {
 		//wallTexture = ImageIO.read(new File("wall_texture.jpg"));
 		String path = "C:\\Users\\Steven\\Downloads\\SimpleCraft_7\\assets\\minecraft\\textures\\blocks\\";
 		wallTexture = ImageIO.read(new File(
-			path + "door_iron_upper.png"
-		//	path + "brick.png"
+		//	path + "door_iron_upper.png"
+			path + "brick.png"
 		));
 		
 	}

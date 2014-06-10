@@ -32,9 +32,9 @@ public class Main implements Runnable {
 		map = new Map(new String[]{
 				"##########",
 				"#        #",
-				"#  #  #  #",
-				"#        #",
-				"#  #  #  #",
+				"#  # ##  #",
+				"#  #     #",
+				"#  ####  #",
 				"#        #",
 				"##########",
 		});
